@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ## Live Demo: [Demo](https://the-color-app.netlify.app/)
 
 #                                            PROJECT : COLOR PICKER
